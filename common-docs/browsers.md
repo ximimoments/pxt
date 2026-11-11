@@ -129,8 +129,8 @@ Google Chrome automatically updates, so you should always be using the latest ve
 Firefox automatically updates, so you should always be using the latest version.
 
 1. Click on the menu icon in the top right (three horizontal lines)
-2. Click the question mark icon (help button)
-3. Click 'About Firefox'
+2. Click on Help and Support
+3. Click 'About Firefox' or 'About Nightly' if you use Firefox Nightly
 
     ![Firefox version dialog](/static/configurations/firefox-version.png)
 
